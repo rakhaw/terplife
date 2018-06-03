@@ -4787,6 +4787,10 @@ small {
   right: 0;
 }
 
+.card.xs {
+  height: 200px;
+}
+
 .card.small {
   height: 300px;
 }
