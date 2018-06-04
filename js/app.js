@@ -42,7 +42,7 @@ var topic_bodies = [
 	["Athletic Shoe",["RecWell", "Guest Policy"]],
 	["Empire State Building",["North Campus", "South Campus"]],
 	["Alien",["Requesting Roommates", "Community Living Agreement (CLA)", "Roles within the Residence Halls"]],
-	["Baseball Mitt",["Triple Barrier System"]],
+	["Baseball Mitt",["Triple Barrier System", "Blue Light System", "NITE Ride"]],
 	["Football",["Varsity", "Club", "Intramurals", "Ticketing for Games"]],
 	["Trolley",["Shuttle-UM", "NextBus App"]]
 ];
